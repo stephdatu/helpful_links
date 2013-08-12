@@ -14,4 +14,8 @@ This is a collection of Ruby on Rails resources to help in your learning. All ne
 
 
 Author: Stephanie Datu (stephdatu@gmail.com)
-HTML/CSS design source: http://guides.railsgirls.com/design/
+HTML/CSS design source: http://guides.railsgirls.com/design/  
+
+## License
+
+http://stephdatu.mit-license.org/
