@@ -1,8 +1,9 @@
 HelpfulLinks::Application.routes.draw do
-  root :to => "links#index"
   resources :links
-
-
+  root to: "links#index"
+  match "auth/:provider/callback", to: "sessions#create"
+  match "auth/failure", to: redirect('/')
+  match "signout", to: "sessions#destroy", as: "signout"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
