@@ -5,7 +5,7 @@ This is a collection of Ruby on Rails resources to help in your learning. All ne
 
 
 ### Submitting your link
-  1. From the homepage, click on the "Submit a Link" menu option at the top or "New Link" on the bottom. This will bring you to a new page where you can enter your information.
+  1. From the homepage, click on the "Submit a Link" menu option at the top or "New Link" on the bottom. This will bring you to a new page where you can enter your information. (*Optional*: Sign in via Twitter at the top link)
   2. Add the *Title* of the URL.
   3. Give a brief description of the website.
   4. Add in the URL (*http://www.example.com*).
